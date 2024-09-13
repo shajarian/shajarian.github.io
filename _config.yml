@@ -41,7 +41,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -79,7 +79,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 github_username: shajarian # your GitHub user name
-gitlab_username: shajarian # your GitLab user name
+gitlab_username: # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
 # inspirehep_id: # Inspire HEP author ID
 # instagram_id: # your instagram id
