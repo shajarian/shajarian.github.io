@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:grinning: I have started my PhD Program in Computer Science at <a href="https://www.ncat.edu/">NCAT!</a>
+:smile:  I have started my PhD Program in Computer Science at <a href="https://www.ncat.edu/">NCAT!</a>
