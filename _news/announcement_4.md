@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have successfully passed my doctoral research examination, the second milestone in my PhD journey at North Carolina Agricultural and Technical State University. 
+:rocket: I have successfully passed my doctoral research examination, the second milestone in my PhD journey at North Carolina Agricultural and Technical State University. :tada:
