@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have successfully passed all my doctoral qualifying exams!  :sparkles: 
+:rocket: I have successfully passed all my doctoral qualifying exams!  :sparkles: 

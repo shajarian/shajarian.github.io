@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-My latest research paper, titled "Transfer Learning with ResNet50 for Malicious Domains Classification Using Image Visualization," has been published in Discover Artificial Intelligence journal.  <a href="https://link-springer-com.ncat.idm.oclc.org/article/10.1007/s44163-024-00154-z">Link</a>
+:loudspeaker: My latest research paper, titled "Transfer Learning with ResNet50 for Malicious Domains Classification Using Image Visualization," has been published in Discover Artificial Intelligence journal.  <a href="https://link-springer-com.ncat.idm.oclc.org/article/10.1007/s44163-024-00154-z">Link</a>

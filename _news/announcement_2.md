@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-I am delighted to share my successful completion of the three remarkable courses in the Data Matters Course Series: "Introduction to Python," "Intermediate Python," and "Deep Learning with Python."  :sparkles: 
+:sparkles: I am delighted to share my successful completion of the three remarkable courses in the Data Matters Course Series: "Introduction to Python," "Intermediate Python," and "Deep Learning with Python."  
 
 
 
