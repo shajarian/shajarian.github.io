@@ -11,5 +11,5 @@ If the embedded PDF below does not load, you can download it <a href="https://sh
 
 Also, this is the link for my Resume <a href="https://shajarian.github.io/assets/pdf/ShirleyShajarian_Resume(Oct2024).docx.pdf" style="color:#64B2CB" download>here</a>.
 
-<embed src="https://shajarian.github.io/assets/pdf/Shajarian_Resume.pdf" type="application/pdf" style="width:100%; height:1000px; margin-left: auto; margin-right: auto;" frameborder="0"/>
+<embed src="https://shajarian.github.io/assets/pdf/CV_Oct2024.pdf" type="application/pdf" style="width:100%; height:1000px; margin-left: auto; margin-right: auto;" frameborder="0"/>
 
