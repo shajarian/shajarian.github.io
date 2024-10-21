@@ -20,4 +20,4 @@ Hey, thanks for stopping by! 👋
 
 I am a **second-year PhD student** in the Computer Science department at North Carolina A&T State University, working under <a href="https://www.linkedin.com/in/sajad-khorsandroo-77b19679/">Dr. Sajad Khorsandroo</a> and <a href="http://www.mabdelsalam.com/">Dr. Mahmoud Abdelsalam</a>. I am part of the Autonomous Cybersecurity and Resilience Lab, where my focus is on **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **Autonomous Network Management**. My research aims to enhance LLMs by integrating real-time external data through RAG while also developing AI-driven autonomous systems to optimize network operations.
 
-Outside of research, I love spending time cooking up something new or baking treats that bring people together.
+Outside of research, you will likely find me in nature, capturing the peaceful beauty of sunsets. I also enjoy experimenting with new recipes and baking treats that bring people together. In my free time, I am either lost in a good book, exploring new places, or pretending I am a pro at hiking and dancing, which somehow keeps me feeling balanced.
