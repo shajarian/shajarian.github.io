@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: I am excited to share that our new paper, "Explainable Malware Analysis: Concepts, Approaches, and Challenges," is now available on arXiv. <a href="https://arxiv.org/abs/2409.13723">Link</a>
+:partying_face: I am excited to share that our new paper, "Explainable Malware Analysis: Concepts, Approaches, and Challenges," is now available on arXiv. <a href="https://arxiv.org/abs/2409.13723">Link</a>
