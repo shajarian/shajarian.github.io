@@ -5,8 +5,8 @@ inline: true
 related_posts: false
 ---
 
-:boom: My doctoral proposal has been accepted and will be presented at the 39th Association for the Advancement of Artificial Intelligence (AAAI), one of the leading conferences in Artificial Intelligence!
- <a href="https://aaai.org/conference/aaai/aaai-25/">Link</a>
+:sparkles: My poster "Intelligent Network Management: RAG-Enhanced LLMs for Log Analysis, Troubleshooting, and Documentation" has been published in CoNEXT '24: Proceedings of the 20th International Conference on emerging Networking EXperiments and Technologies.
+ <a href="https://dl.acm.org/doi/abs/10.1145/3680121.3699887">Link</a>
 
  <!-- 🎉 :tada: – Party popper
 🎊 :confetti_ball: – Confetti ball
