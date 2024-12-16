@@ -41,13 +41,19 @@ layout: default
     <div class="clearfix">{{ content }}</div>
 
     <!-- News -->
+   
+
     {% if page.news and site.announcements.enabled %}
       <h2>
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
       </h2>
-      {% include news.liquid limit=true %}
+      <div class="news-container">
+        {% include news.liquid limit=true %}
+      </div>
     {% endif %}
 
+
+    
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
       <h2>
@@ -78,3 +84,5 @@ layout: default
     {% endif %}
   </article>
 </div>
+
+
