@@ -3,8 +3,6 @@
 ---
 @charset "utf-8";
 
-
-
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
@@ -25,23 +23,3 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
-
-/* Scrollable News Section */
-.news-container {
-  max-height: 200px; /* Set the maximum height for the news section */
-  overflow-y: auto;  /* Enable vertical scrolling */
-  border: 1px solid #ddd; /* Optional: Adds a border for visual clarity */
-  padding: 10px;
-  margin: 10px 0;
-  background-color: #f9f9f9; /* Optional: Light background color */
-}
-
-.news-container ul {
-  list-style: none; /* Remove bullets */
-  padding: 0;
-  margin: 0;
-}
-
-.news-container li {
-  margin-bottom: 10px; /* Adds space between news items */
-}
