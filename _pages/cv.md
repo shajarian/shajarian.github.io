@@ -7,7 +7,7 @@ nav_order: 5
 description:
 ---
 
-If the embedded PDF below does not load, you can download my CV <a href="https://shajarian.github.io/assets/pdf/CV_Oct2024.pdf" style="color:#64B2CB" download>here</a>.
+If the embedded PDF below does not load, you can download my CV <a href="https://shajarian.github.io/assets/pdf/CV_Jan2025.pdf" style="color:#64B2CB" download>here</a>.
 
 Also, the link of my Resume is <a href="https://shajarian.github.io/assets/pdf/ShirleyShajarian_Resume(Oct2024).docx.pdf" style="color:#64B2CB" download>here</a>.
 
